@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  ref_id: MyString
+  ref_id_value: MyString
+  buid: MyString
+  status: MyString
+
+two:
+  id: 1
+  ref_id: MyString
+  ref_id_value: MyString
+  buid: MyString
+  status: MyString
